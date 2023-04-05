@@ -1,0 +1,11 @@
+dog 
+cat
+dog
+lizzard
+fox
+wolf
+wolf
+dog
+cat
+lizzard
+wolf
